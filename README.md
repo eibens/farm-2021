@@ -2,7 +2,8 @@
 
 This repository contains links and public data related to our paper submission to [FARM 2021](https://functional-art.org/). 
 
-- Waltz Generator: [Demo](https://isolin.github.io/farm-2021/waltz), [Output](files/waltz)
+- Waltz Generator (v2): [Demo](https://isolin.github.io/farm-2021/waltz_v2), [Output](files/waltz)
+- Waltz Generator (v1): [Demo](https://isolin.github.io/farm-2021/waltz_v1), [Output](files/waltz)
 - Fragment Generator: [Demo](https://isolin.github.io/farm-2021/fragment), [Output](files/fragment)
 - Fragment Generator (extended): [Demo](https://isolin.github.io/farm-2021/fragment-x), [Output](files/fragment-x)
 - [Files referenced in the paper](files/paper)
